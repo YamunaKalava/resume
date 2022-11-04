@@ -1,0 +1,134 @@
+body{
+  font-family: 'Libre Baskerville', serif;
+}
+
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+h3{
+  font-family: 'Libre Baskerville', serif;
+
+}
+p{
+  font-family: 'Bitter', serif;
+}
+
+.para{
+
+  padding: 7%;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+
+.navbar{
+  padding-bottom:0 0 4.5rem;
+  background-color: #ff4c68;
+
+}
+.navbar-brand{
+  font-family: 'Libre Baskerville', serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding:0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Libre Baskerville', serif;
+}
+
+#my-strengths{
+  padding: 5% 5%;
+  background-color: #fff;
+}
+.feature-box{
+  padding: 2%;
+}
+
+/* education */
+#education{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+
+/* skillls */
+#skills{
+  padding: 5% 5%;
+
+}
+.icon{
+  color:#ef8172;
+}
+
+
+/* certifications */
+
+#certifications{
+  padding-left: 5%;
+  background-color: #ef8172;
+}
+
+.row{
+  padding-top: 3%;
+  padding-left: 7%;
+
+}
+
+/* experience */
+.experience-img{
+  width: 10%;
+}
+
+.job-exp{
+  /* font-family: sans-serif; */
+  font-size: 1.5rem;
+}
+.experience{
+  padding: 5% 5%;
+}
+
+
+/* cta */
+.cta{
+  background-color: #EEEEEE;
+}
+.touch{
+  text-align: center;
+}
+.form{
+  padding-left: 5%;
+
+
+}
+.form-control{
+  background-color: #EEEEEE;
+
+}
+.button{
+  margin : 50px 0 50px 0;
+}
+
+.names{
+  padding:5% 5%;
+}
+
+#info{
+  background-color: #ff4c68;
+  text-align: center;
+  padding-left: 7% 15%;
+  /* margin: 5%; */
+
+
+}
+.social-icon{
+  margin: 20px 10px;
+}
